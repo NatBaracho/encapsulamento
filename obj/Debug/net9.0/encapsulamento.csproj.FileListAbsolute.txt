@@ -1,0 +1,15 @@
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\bin\Debug\net9.0\encapsulamento.exe
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\bin\Debug\net9.0\encapsulamento.deps.json
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\bin\Debug\net9.0\encapsulamento.runtimeconfig.json
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\bin\Debug\net9.0\encapsulamento.dll
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\bin\Debug\net9.0\encapsulamento.pdb
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.AssemblyInfoInputs.cache
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.AssemblyInfo.cs
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.sourcelink.json
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.dll
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\refint\encapsulamento.dll
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.pdb
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\encapsulamento.genruntimeconfig.cache
+C:\ProgramacaoAPP\natan\atividades\POO\encapsulamento\obj\Debug\net9.0\ref\encapsulamento.dll
